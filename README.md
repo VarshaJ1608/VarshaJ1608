@@ -19,7 +19,7 @@ Aspiring to become a top-notch Business Analyst & Power BI Specialist — turnin
 
 <b>🌐 Let’s Connect<br></b>
 - 📧 Email: varu.fdo@gmail.com<br>
-- 🔗 LinkedIn: linkedin.com/in/varsha-j-566b35267<br>
+- 🔗 LinkedIn: www.linkedin.com/in/varsha-j-566b35267<br>
 
 
 <b>💡 My Vision<br><br></b>
