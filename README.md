@@ -4,7 +4,7 @@ Aspiring to become a top-notch Business Analyst & Power BI Specialist — turnin
 
 <B>🔑 About Me<br></b>
 - 🎓 BCA Graduate with 5+ years of experience in the Email Marketing & Analytics domain<br>
-- 💼 Business Analyst | Power BI Developer | SQL | Excel | Data analyst<br>
+- 💼 Data Analyst | Power BI Developer | SQL | Excel | Business analyst<br>
 - 📈 Skilled in Campaign Reporting, Data Visualization, and Performance Optimization<br>
 - 🌱 Passionate about continuous learning and applying real-world data to solve business problems<br>
 
